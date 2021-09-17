@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenedor{
+    padding: 5px;
+}
+h1{
+    margin-top: 20px;
+    color: rgb(18, 170, 170);
+}
+#one{
+    margin-top: 20px;
+    text-align: justify;
+}
+.red{
+    color: red;
+}
+h2{
+   margin-top: 20px;
+   color: blue; 
+}
+#two{
+    margin-top: 20px;
+    text-align: justify;
+}
+#blue{
+    color: blue;
+}
+#linearoja{
+    color: red;
+}
+#morado{
+    color: blueviolet;
+}
+#titulotabla{
+    margin-top: 20px;
+    color:blue;
+    font-weight: 600;
+    margin-left: 126px;
+}
+table td{
+    border:1px solid black;
+}
+table th{
+    border:1px solid black;
+}
+table{
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    border-collapse: collapse;
+}
+#three{
+    margin-top: 20px;
+}
+.amarillo{
+    color: rgb(255, 230, 0);
+}
+.verde{
+    color: rgb(62, 253, 62);
+}
+.rojo{
+    color: red;
+}
+#three{
+    color: rgb(187, 140, 69);
+}
+.rosado{
+    color: pink;
+}
+#subverde{
+    color: rgb(62, 253, 62);
+}
+

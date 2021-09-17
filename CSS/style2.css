@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenedor{
+    border-style: solid;
+    border-color: gray;
+    padding: 0;
+}
+h1{
+    color: rgb(18, 170, 170);
+}
+#one{
+    text-align: justify;
+}
+.red{
+    color: red;
+}
+#two{
+    text-align: justify;
+}
+.blue{
+    color: blue;
+}
+#linearoja{
+    border-style: solid;
+    border-color: gray;
+    color: red;
+}
+#morado{
+    color: blueviolet;
+}
+table{
+    margin-top: 20px;
+}
+table td{
+    border:1px solid black;
+}
+table th{
+    border:1px solid black;
+}
+table{
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    border-collapse: collapse;
+}
+#three{
+    border-style: solid;
+    border-color: gray;
+    margin-top: 20px;
+}
+.amarillo{
+    color: rgb(255, 230, 0);
+}
+.verde{
+    color: rgb(62, 253, 62);
+}
+.rojo{
+    color: red;
+}
+#three{
+    color: rgb(187, 140, 69);
+}
+.rosado{
+    border-style: solid;
+    border-color: gray;
+    color: pink;
+}
+#subverde{
+    color: rgb(62, 253, 62);
+}
+/*aplicnado cajas*/
+.caja1{
+    margin-top: 20px;
+    border-style: solid;
+    border-color: gray;
+}
+.caja2{
+    margin-top: 20px;
+    border-style: solid;
+    border-color: gray;
+}
+.caja3{
+    margin-top: 20px;
+    border-style: solid;
+    border-color: gray;
+}
+.caja4{
+    margin-top: 20px;
+    border-style: solid;
+    border-color: gray;
+}
+#cajab1{
+    border-style: solid;
+    border-color: gray;
+}
+#cajab2{
+    border-style: solid;
+    border-color: gray;
+}
+#cajai{
+    border-style: solid;
+    border-color: gray;
+}
+#cajab3{
+    border-style: solid;
+    border-color: gray;
+}
+.prim{
+    margin-top: 20px;
+    border-style: solid;
+    border-color: gray;
+}
+.seg{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: gray;
+}
+.ter{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: gray;
+    margin-bottom: 20px;
+}
+#cajab4{
+    border-style: solid;
+    border-color: gray;
+}
